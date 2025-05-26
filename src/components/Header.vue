@@ -11,6 +11,7 @@
         <li><a href="#">About</a></li>
         <li><a href="#">Gallery</a></li>
         <li><a href="#">FAQ</a></li>
+        <li><a href="#">GEO</a></li>
     </ul>
 
     <ul class="navbar__icons">
